@@ -10,13 +10,15 @@ this repo as the set of examples.
 ## Sources
 - [Paypal](./sources/paypal) - Subscribes to Paypal webhooks
 - [Leanplum](./sources/leanplum) - Subscribes to Leanplum webhooks
-- [SurveyMonkey](./sources/surveymonkey) - Subscribes to SurveyMonkey webhooks
+- [SurveyMonkey](./sources/survey-monkey) - Subscribes to SurveyMonkey webhooks
 - [Stripe Events](./sources/stripe-events) - Subscribes to Stripe webhooks
 - [Pipedrive](./sources/pipedrive) - Subscribes to Pipedrive webhooks
-- [Close.io](./sources/close_io) - Subscribes to Close.io webhooks
+- [Close.io](./sources/close-io) - Subscribes to Close.io webhooks
 
 ## Destinations
 
 - [Follow Along](./destinations/follow-along) - Generates Fullstory links and sends to Slack
 - [Requestbin](./destinations/requestbin) - Sends events to RequestBin for introspection
 - [Slack](./destinations/slack) - Adds a Gravatar icon to events with an email and sends messages to Slack
+ 
+ Questions or access reqReach out to [beta@segment.com](mailto:beta@segment.com).
